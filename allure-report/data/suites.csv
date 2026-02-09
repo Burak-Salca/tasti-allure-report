@@ -1,0 +1,6 @@
+"DESCRİPTİON","DURATİON İN MS","NAME","PARENT SUİTE","START TİME","STATUS","STOP TİME","SUB SUİTE","SUİTE","TEST CLASS","TEST METHOD"
+"","26375","CamTrainTool Testi","Default Suite","Mon Feb 09 16:35:26 TRT 2026","passed","Mon Feb 09 16:35:52 TRT 2026","tests.CamTrainToolTests","tasti-qa","tests.CamTrainToolTests","successfulCamTrainTool"
+"","39720","CamGenTool Testi","Default Suite","Mon Feb 09 16:34:39 TRT 2026","passed","Mon Feb 09 16:35:19 TRT 2026","tests.CamGenToolTest","tasti-qa","tests.CamGenToolTest","SuccessfullCamGenTool"
+"","3258","Başarılı giriş testi.","Default Suite","Mon Feb 09 16:33:15 TRT 2026","passed","Mon Feb 09 16:33:18 TRT 2026","tests.LoginTests","tasti-qa","tests.LoginTests","SuccessfulLogin"
+"","46554","CamQTool Testi","Default Suite","Mon Feb 09 16:33:25 TRT 2026","passed","Mon Feb 09 16:34:11 TRT 2026","tests.CamQToolTest","tasti-qa","tests.CamQToolTest","successfulCamQTool"
+"","13904","CamFiTool Testi","Default Suite","Mon Feb 09 16:34:18 TRT 2026","passed","Mon Feb 09 16:34:32 TRT 2026","tests.CamFiToolTests","tasti-qa","tests.CamFiToolTests","SuccessfullCamFiTool"
